@@ -4,4 +4,6 @@ Hello there, I am Sourav Gope , Student | CSE | Tech Enthusiast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theglitchh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Sourav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theglitchh)](https://github.com/anuraghazra/github-readme-stats)
