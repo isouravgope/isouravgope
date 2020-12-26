@@ -1,4 +1,5 @@
-Hello there, I am Sourav Gope , Student | CSE | Tech Enthusiast
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 [![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=theglitchh&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
