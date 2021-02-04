@@ -1,10 +1,13 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-[![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=theglitchh&count_private=true&show_icons=true&theme=dracula)](https://theglitchh.github.io/)
+<a href="https://github.com/theglitchh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theglitchh&show_icons=true&include_all_commits=true&theme=radical" alt="Sourav's github statistics" />
+</a>
+<a href="https://github.com/theglitchh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&langs_count=8&layout=compact&theme=dracula)](https://theglitchh.github.io/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theglitchh&repo=theglitchh.github.io)](https://theglitchh.github.io/)
-
-[![Sourav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theglitchh)](https://theglitchh.github.io)
+<a href="https://github.com/theglitchh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theglitchh&layout=compact&repo=theglitchh.github.io&theme=radical" />
+</a>
