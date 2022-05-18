@@ -1,3 +1,4 @@
+```javascript
 const sourav = {
     pronouns: "He" | "Him",
     code: ["Javascript", "CSS", "Java", "PHP", "Kotlin", "C++"],
@@ -16,3 +17,4 @@ const sourav = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Design and Android application with UI/UX on Flutter",
 };
+```
