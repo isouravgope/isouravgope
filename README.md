@@ -1,11 +1,18 @@
-<a href="https://github.com/theglitchh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thefallnn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Fallen's github statistics" />
-</a>
- <a href="https://github.com/theglitchh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallnn&layout=compact&theme=github_dark" />
-</a>
-
-<!-- <a href="https://github.com/theglitchh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theglitchh&layout=compact&repo=theglitchh.github.io&theme=vue-dark" />
-</a> -->
-<!-- <img src="dnd/dnd.gif" width="600" height="300" /> -->
+const sourav = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "CSS", "Java", "PHP", "Kotlin", "C++"],
+    askMeAbout: ["Web Dev", "Android Dev", "RDBMS Dev", "blogger"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Angular", "React"],
+        },
+        mobileApp: {
+            native: ["Android Application Development"]
+        },
+        devOps: ["AWS", "Docker", "GCP", "Nginx"],
+        databases: ["MongoDB", "MySql", "SQlite", "Oracle"],
+        misc: ["Firebase", "open-cv", "php", "Heroku", "Engine Yard"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Web Design and Android application with UI/UX on Flutter",
+};
