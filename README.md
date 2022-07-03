@@ -11,7 +11,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka+medium&size=19&center=true&lines=Tell+the+Computer+what+you+want;+++++++++++++++Not+what+to+do+!!">
       <br>
       <b>
-        ~ Sourav (TheFallnn) Gope ~
+        ~ Sourav (TheGlitchh) Gope ~
       </b>
     </samp>
   </p>
