@@ -27,7 +27,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/theglitchh">twitter</a>]
+    [<a href="https://twitter.com/Ssourav2k">twitter</a>]
     [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>]
     [<a href="mailto:thefallnn@pm.me">e-mail</a>]
   </samp>
