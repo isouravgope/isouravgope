@@ -8,7 +8,7 @@
         I'm Sourav, a developer, a student, and Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka+medium&size=19&center=true&lines=Tell+the+Computer+what+you+want;+++++++++++++++Not+what+to+do+!!">
+        <image src="https://readme-typing-svg.herokuapp.com?color=F78D8D&font=Iosevka+medium&size=19&center=true&lines=Tell+the+Computer+what+you+want;+++++++++++++++Not+what+to+do+!!">
       <br>
       <b>
         ~ Sourav (TheGlitchh) Gope ~
