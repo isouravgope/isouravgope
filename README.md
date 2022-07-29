@@ -5,7 +5,7 @@
       <b>
         Hello There
       <br>
-        I'm Sourav, a developer, a student, and Linux enthusiast.
+        I'm Sourav, a developer, a student, and a Linux enthusiast.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?color=80ccf9&font=Iosevka+medium&size=19&center=true&lines=Tell+the+Computer+what+you+want;+++++++++++++++Not+what+to+do+!!">
@@ -28,7 +28,7 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/Ssourav2k">twitter</a>]
-    [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>]
+    [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
     [<a href="mailto:thefallnn@pm.me">e-mail</a>]
   </samp>
 </p>
@@ -62,8 +62,12 @@
 
 <!-- GPG Keys -->
 
-
-
+```sh
+curl -sS https://github.com/sourav2k.gpg | gpg --import
+```
+```console
+878B 0B3F 8083 A5C2 8C24  D4FB 4175 F7D6 9C89 AA5D
+```
 
 </details>
 
