@@ -66,7 +66,7 @@
 curl -sS https://github.com/sourav2k.gpg | gpg --import
 ```
 ```console
-C678 ECC9 8DDB 6263 B65E  496B 612D 4AB7 44BB 18B4
+B3A0 624F 8599 093A A312  0EFB 6B9D 5C3A F73B 603E
 ```
 
 </details>
