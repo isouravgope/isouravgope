@@ -27,9 +27,9 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/Ssourav2k">twitter</a>]
+    [<a href="https://twitter.com/thefallnn">twitter</a>]
     [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
-    [<a href="mailto:thefallnn@pm.me">e-mail</a>]
+    [<a href="mailto:thefallnn@gmail.com">e-mail</a>]
   </samp>
 </p>
 
@@ -38,7 +38,7 @@
 <!-- Github Stats -->
 <p align="center">
   <samp>
-    <img src="https://komarev.com/ghpvc/?username=sourav2k&label=Profile+Views&color=grey" alt="thefallnn" /> 
+    <img src="https://komarev.com/ghpvc/?username=thefallnn&label=Profile+Views&color=grey" alt="thefallnn" /> 
   </samp>
 </p>
 <p align="center">
@@ -46,12 +46,12 @@
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav2k&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thefallnn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
     </details>
     <details> 
       <summary>My Most Used Languages</summary>
         <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav2k&layout=compact&hide_border=true&theme=tokyonight"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallnn&layout=compact&hide_border=true&theme=tokyonight"/>
         <br>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
