@@ -63,10 +63,10 @@
 <!-- GPG Keys -->
 
 ```sh
-curl -sS https://github.com/sourav2k.gpg | gpg --import
+curl -sS https://github.com/thefallnn.gpg | gpg --import
 ```
 ```console
-B3A0 624F 8599 093A A312  0EFB 6B9D 5C3A F73B 603E
+5832 AFB7 7568 057B 7BFB  A889 0E29 B01F CE57 3C66
 ```
 
 </details>
