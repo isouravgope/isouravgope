@@ -66,7 +66,7 @@
 curl -sS https://github.com/thefallnn.gpg | gpg --import
 ```
 ```console
-5832 AFB7 7568 057B 7BFB  A889 0E29 B01F CE57 3C66
+C2C4 AB08 8A62 28C1 F7E3  6541 5716 9934 0987 4F80
 ```
 
 </details>
