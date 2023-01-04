@@ -11,7 +11,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FBF1C7&center=true&width=435&lines=%E7%A7%81+++%E6%9D%A5%E3%81%A6+++%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+++%E3%81%AE%E4%B8%AD%E3%81%AB++%E7%A7%8B+++%E6%99%82%E9%96%93.+;I+come+alive+in+the+Fall+Time.">
       <br>
       <b>
-        ~ Sourav (Sourav2k) Gope ~
+        ~ Sourav (TheFallnn) Gope ~
       </b>
     </samp>
   </p>
@@ -29,7 +29,7 @@
   <samp>
     [<a href="https://twitter.com/thefallnn">twitter</a>]
     [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
-    [<a href="mailto:thefallnn@gmail.com">e-mail</a>]
+    [<a href="mailto:sourav@thefallnn.tech">e-mail</a>]
   </samp>
 </p>
 
