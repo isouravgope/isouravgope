@@ -38,7 +38,7 @@
 <!-- Github Stats -->
 <p align="center">
   <samp>
-    <img src="https://komarev.com/ghpvc/?username=thefallnn&label=Profile+Views&color=grey" alt="thefallnn" /> 
+    <img src="https://komarev.com/ghpvc/?username=thefallnn&label=Profile+Views&color=689d6a" alt="thefallnn" /> 
   </samp>
 </p>
 <p align="center">
