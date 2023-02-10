@@ -8,7 +8,7 @@
         I'm Sourav, a developer, a student, and a Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FBF1C7&center=true&width=435&lines=%E7%A7%81+++%E6%9D%A5%E3%81%A6+++%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+++%E3%81%AE%E4%B8%AD%E3%81%AB++%E7%A7%8B+++%E6%99%82%E9%96%93.+;I+come+alive+in+the+Fall+Time.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=FBF1C7&center=true&width=435&lines=I+Wasn't+Ought+To+Be+Falling;Cause+I+Am+The+Fallnn">
       <br>
       <b>
         ~ Sourav (TheFallnn) Gope ~
