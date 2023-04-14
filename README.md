@@ -46,12 +46,12 @@
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thefallnn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thefallnn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox_light"/>
     </details>
     <details> 
       <summary>My Most Used Languages</summary>
         <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallnn&layout=compact&hide_border=true&theme=gruvbox"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefallnn&layout=compact&hide_border=true&theme=gruvbox_light"/>
         <br>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
