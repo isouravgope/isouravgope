@@ -8,7 +8,7 @@
         I'm Sourav, a developer, a student, and a Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=000000&width=435&lines=alas!+TheFallnn+has+Fallen+">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&center=true&pause=1000&color=000000&width=435&lines=TheFallnn+never+falls+down+">
       <br>
       <b>
         ~ Sourav (TheFallnn) Gope ~
