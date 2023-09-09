@@ -5,7 +5,7 @@
       <b>
         Hello There
       <br>
-        I'm Sourav, a developer, a student, and a Linux enthusiast.
+        I'm Sourav, a developer, a CS Engineer, and a Linux enthusiast.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&center=true&pause=500&color=000000&width=435&lines=theglitchh+never+glitches+">
