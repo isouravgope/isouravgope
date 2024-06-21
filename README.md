@@ -38,7 +38,7 @@
 <!-- Github Stats -->
 <p align="center">
   <samp>
-    <img src="https://komarev.com/ghpvc/?username=isouravgope&label=Profile+Views&color=689d6a" alt="isouravgope" /> 
+    <img src="https://komarev.com/ghpvc/?username=theglitchh&label=Profile+Views&color=689d6a" alt="theglitchh" /> 
   </samp>
 </p>
 <p align="center">
@@ -46,12 +46,12 @@
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=isouravgope&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox_light"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theglitchh&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox_light"/>
     </details>
     <details> 
       <summary>My Most Used Languages</summary>
         <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isouravgope&layout=compact&hide_border=true&theme=gruvbox_light"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&hide_border=true&theme=gruvbox_light"/>
         <br>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
@@ -63,7 +63,7 @@
 <!-- GPG Keys -->
 
 ```sh
-curl -sS https://github.com/isouravgope.gpg | gpg --import
+curl -sS https://github.com/theglitchh.gpg | gpg --import
 ```
 ```console
 9887 2699 2EF0 7C47 B4EE  A2DC 55E3 6AA6 F345 4684
