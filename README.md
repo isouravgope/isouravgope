@@ -8,10 +8,10 @@
         I'm Sourav, A CS Engineer, Currently A Programmer Analyst At Srinsights.com
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=d65d0e&center=true&width=435&lines=Have+Loops+In+Your+Programs...;+But+Not+In+Your+Life.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=cc241d&center=true&width=435&lines=Have+Loops+In+Your+Programs...;+But+Not+In+Your+Life.">
       <br>
       <b>
-        ~ Sourav(<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&height=18&weight=600&vCenter=true&pause=1000&repeat=false&color=d65d0e&center=true&width=150&lines=isouravgope">)Gope ~
+        ~ Sourav(<image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&height=18&weight=600&vCenter=true&pause=1000&repeat=false&color=cc241d&center=true&width=150&lines=TheGlitchh">)Gope ~
       </b>
     </samp>
   </p>
