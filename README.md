@@ -41,22 +41,23 @@
     <img src="https://komarev.com/ghpvc/?username=theglitchh&label=Profile+Views&color=689d6a" alt="theglitchh" /> 
   </samp>
 </p>
-<p align="center">
+<div align="center">
   <samp>
     <details>
       <summary>My Profile Stats</summary>
-        <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theglitchh&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox_light"/>
+      <br>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theglitchh&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=gruvbox_light"/>
     </details>
-    <details> 
+    <details>
       <summary>My Most Used Languages</summary>
-        <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&hide_border=true&theme=gruvbox_light"/>
-        <br>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+      <br>
+      <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&hide_border=true&theme=gruvbox_light"/>
+      <br>
+      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
   </samp>
-</p>
+</div>
+
 
 <h2></h2><br>
 
