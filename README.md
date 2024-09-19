@@ -28,7 +28,7 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/isouravgope">twitter</a>]
-    [<a href="https://matrix.to/#/@thefallnn:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
+    [<a href="https://matrix.to/#/@isouravgope:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
     [<a href="mailto:isouravgope@gmail.com">e-mail</a>]
   </samp>
 </p>
