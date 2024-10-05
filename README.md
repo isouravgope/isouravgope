@@ -67,7 +67,7 @@
 curl -sS https://github.com/isouravgope.gpg | gpg --import
 ```
 ```console
-9887 2699 2EF0 7C47 B4EE  A2DC 55E3 6AA6 F345 4684
+626F 7745 8C2F 9C3E 6037  B0EA 5AFB 0E59 EA2B C940
 ```
 
 </details>
