@@ -23,13 +23,12 @@
 <summary></summary>
 
 <h2></h2><br>
-
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/isouravgope">twitter</a>]
+    [<a href="https://leetcode.com/u/isouravgope">LeetCode</a>]
     [<a href="https://matrix.to/#/@isouravgope:matrix.org">matrix</a>] <!-- we cannot change our username on matrix it seems -->
-    [<a href="mailto:isouravgope@gmail.com">e-mail</a>]
+    [<a href="mailto:isouravgope@duck.com">e-mail</a>]
   </samp>
 </p>
 
